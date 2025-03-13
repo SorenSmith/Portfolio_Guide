@@ -1,13 +1,12 @@
-# 🗺 Katie's Portfolio
+# 🗺 Soren's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+Welcome to my data portfolio! Here, I document a summary of my projects in the data field and that I am currently doing :) 
 
 ## 📚 Table of Contents
 - [Data Engineering](#data-engineering)
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
-- [Katie's Guides](#katies-guides)
 
 # Data Engineering
 
