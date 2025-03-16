@@ -12,7 +12,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Project Description | 
 |---|---|
 | 💡 [Credit Card Detection Fraud](https://github.com/katiehuangx/8-Week-SQL-Challenge) | Analyzed a large credit card transaction dataset (284,807 records) to identify fraudulent activity using advanced SQL queries. Conducted exploratory data analysis (EDA), detected patterns in transaction amounts and time-based behaviors, and uncovered key predictive features. Delivered actionable insights and recommendations to improve fraud detection accuracy and mitigate operational risks. | 
- 
+ | [The Job Market Crisis](https://github.com/SorenSmith/The-Job-Market-Crisis) | This project examines global layoffs (2022-2024) to identify the most affected industries, companies, and regions. The U.S. leads in layoffs, with Amazon, Meta, and Tesla among the hardest hit. Retail, tech, and consumer goods face the biggest cuts, while AI and aerospace show resilience. Interactive dashboards highlight key trends, with future improvements focusing on trend analysis and hiring comparisons. |
 
 ***
 
